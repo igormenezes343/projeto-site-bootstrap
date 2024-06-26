@@ -1,0 +1,49 @@
+body{
+    font-family: sansita, sans-serif;
+}
+.navbar{
+    background-color: rgb(240, 30, 30);
+}
+#cabecalho .nav .nav-link.active{
+    background-color: #fff;
+    color: rgb(240, 30, 30);
+
+}
+#cabecalho .nav .nav-link,
+.navbar-brand,
+.navbar-brand:hover,
+.nav-servicos .nav-link.active:hover{
+    color: #fff;
+}
+.navbar-toggler{
+    background-color: #ffeae6;
+}
+.section-title{
+    font-family: italianno, cursive;
+}
+.text-colored{
+    color: rgb(240, 30, 30);
+}
+.nav-servicos .nav-link.active,
+#contatos button{
+    background-color: rgb(240, 30, 30);
+    color: #fff;
+}
+.nav-servicos .nav-link:hover{
+    color: rgb(240, 30, 30);
+}
+.nav-servicos .nav-link{
+    color: rgb(240, 30, 30);
+}
+.social-links li {
+    list-style: none;
+    display: inline;
+
+}
+.social-links a {
+    text-decoration: none;
+}
+footer{
+    background-color: rgb(240, 30, 30);
+    
+}
